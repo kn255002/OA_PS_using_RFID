@@ -3,11 +3,8 @@ University Thesis Project - Class MCS-15 (Year 2006-2007)
 
 **Project Group Partners:**
 
-Khurram Nazir, Muhammad Abid
-
-Islamabad, Pakistan
+Khurram Nazir, Muhammad Abid (Islamabad, Pakistan)
 ---
-
 A legacy multi-tiered enterprise automation system engineered to replace manual register-based workflows with automated, real-time Radio Frequency Identification (RFID) tracking and localized relational payroll computation. 
 
 ---
