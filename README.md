@@ -1,5 +1,5 @@
 # Online Attendance & Payroll System via RFID (OA&PS RFID)
-University Thesis Project - Class MCS-15 (2006)
+University Thesis Project - Class MCS-15 (Year 2006-2007)
 
 **Project Group Partners:**
 
@@ -34,6 +34,6 @@ This project was originally developed as an academic thesis system designed for 
 
 ---
 
-## 📐 Legacy System Topology
+## Legacy System Topology
 The system abstracts operations across five isolated operational roles managed via a single unified enterprise database backend:
 <img width="627" height="508" alt="image" src="https://github.com/user-attachments/assets/10401aea-2342-4de1-8be7-e4c8972765cf" />
