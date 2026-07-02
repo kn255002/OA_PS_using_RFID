@@ -1,4 +1,10 @@
 # Online Attendance & Payroll System via RFID (OA&PS RFID)
+University Thesis Project - Class MCS-15 (2006)
+
+**Project Group Partners:**
+
+Khurram Nazir (München,Germany), Muhammad Abid (Islamabad, Pakistan)
+---
 
 A legacy multi-tiered enterprise automation system engineered to replace manual register-based workflows with automated, real-time Radio Frequency Identification (RFID) tracking and localized relational payroll computation. 
 
