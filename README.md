@@ -30,4 +30,4 @@ This project was originally developed as an academic thesis system designed for 
 
 ## 📐 Legacy System Topology
 The system abstracts operations across five isolated operational roles managed via a single unified enterprise database backend:
-
+<img width="627" height="508" alt="image" src="https://github.com/user-attachments/assets/10401aea-2342-4de1-8be7-e4c8972765cf" />
